@@ -1,0 +1,31 @@
+{
+  "app_name": "CharaStudio",
+  "versions": {
+    "1.0.0-beta": {
+      "release_date": "2026-05",
+      "release_timestamp": 1747795200,
+      "download_urls": [
+        "https://github.com/charasoftware/charastudio-public/releases/download/v1.0.0-beta/CharaStudio-1.0.0-beta.exe",
+        "https://gitee.com/charasoftware/charastudio-public/releases/download/v1.0.0-beta/CharaStudio-1.0.0-beta.exe"
+      ],
+      "changelog": {
+        "en": [
+          "https://raw.githubusercontent.com/charasoftware/charastudio-public/main/release/v1.0.0-beta/v1.0.0-beta.en.md",
+          "https://gitee.com/charasoftware/charastudio-public/raw/main/release/v1.0.0-beta/v1.0.0-beta.en.md"
+        ],
+        "zh": [
+          "https://raw.githubusercontent.com/charasoftware/charastudio-public/main/release/v1.0.0-beta/v1.0.0-beta.zh.md",
+          "https://gitee.com/charasoftware/charastudio-public/raw/main/release/v1.0.0-beta/v1.0.0-beta.zh.md"
+        ]
+      },
+      "force_update": false,
+      "mandatory_fields": []
+    }
+  },
+  "latest": "1.0.0-beta",
+  "update_time": "2026-05-01T00:00:00Z",
+  "update_check_urls": [
+    "https://raw.githubusercontent.com/charasoftware/charastudio-public/main/versions.json",
+    "https://gitee.com/charasoftware/charastudio-public/raw/main/versions.json"
+  ]
+}
